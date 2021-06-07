@@ -1,0 +1,15 @@
+C:\Users\Savio\Desktop\Inlämning_3_ra_kod\obj\Debug\Inlamning_3_ra_kod.csprojAssemblyReference.cache
+C:\Users\Savio\Desktop\Inlämning_3_ra_kod\obj\Debug\MainWindow.g.cs
+C:\Users\Savio\Desktop\Inlämning_3_ra_kod\obj\Debug\App.g.cs
+C:\Users\Savio\Desktop\Inlämning_3_ra_kod\obj\Debug\Inlamning_3_ra_kod_MarkupCompile.cache
+C:\Users\Savio\Desktop\Inlämning_3_ra_kod\obj\Debug\Inlamning_3_ra_kod_MarkupCompile.lref
+C:\Users\Savio\Desktop\Inlämning_3_ra_kod\bin\Debug\Inlamning_3_ra_kod.exe.config
+C:\Users\Savio\Desktop\Inlämning_3_ra_kod\bin\Debug\Inlamning_3_ra_kod.exe
+C:\Users\Savio\Desktop\Inlämning_3_ra_kod\bin\Debug\Inlamning_3_ra_kod.pdb
+C:\Users\Savio\Desktop\Inlämning_3_ra_kod\obj\Debug\MainWindow.baml
+C:\Users\Savio\Desktop\Inlämning_3_ra_kod\obj\Debug\Inlamning_3_ra_kod.g.resources
+C:\Users\Savio\Desktop\Inlämning_3_ra_kod\obj\Debug\Inlamning_3_ra_kod.Properties.Resources.resources
+C:\Users\Savio\Desktop\Inlämning_3_ra_kod\obj\Debug\Inlamning_3_ra_kod.csproj.GenerateResource.cache
+C:\Users\Savio\Desktop\Inlämning_3_ra_kod\obj\Debug\Inlamning_3_ra_kod.csproj.CoreCompileInputs.cache
+C:\Users\Savio\Desktop\Inlämning_3_ra_kod\obj\Debug\Inlamning_3_ra_kod.exe
+C:\Users\Savio\Desktop\Inlämning_3_ra_kod\obj\Debug\Inlamning_3_ra_kod.pdb
